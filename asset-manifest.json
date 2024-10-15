@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-WebDev/static/css/main.582e8902.css",
+    "main.js": "/Portfolio-WebDev/static/js/main.47cae3ac.js",
+    "static/media/SuperdryTemp.png": "/Portfolio-WebDev/static/media/SuperdryTemp.b15f0a1c358942bef240.png",
+    "static/media/placeholder.pdf": "/Portfolio-WebDev/static/media/placeholder.4df2c16f93a08eb3da4e.pdf",
+    "static/media/VirtualRealityHorror.png": "/Portfolio-WebDev/static/media/VirtualRealityHorror.2831ff7787d653ce4e7d.png",
+    "static/media/Templae.png": "/Portfolio-WebDev/static/media/Templae.8cdb0f42d4ac3b867341.png",
+    "static/media/Licketysl.png": "/Portfolio-WebDev/static/media/Licketysl.d4b5b561b93863f3696e.png",
+    "static/media/VideoGameDev1.png": "/Portfolio-WebDev/static/media/VideoGameDev1.ecd7a017f32a4beea250.png",
+    "static/media/ComputerGraphicsDev.png": "/Portfolio-WebDev/static/media/ComputerGraphicsDev.11a394f37678f19c3f0d.png",
+    "static/media/portfolio2024a.png": "/Portfolio-WebDev/static/media/portfolio2024a.310e819da52b1bed8be6.png",
+    "static/media/Bootst.png": "/Portfolio-WebDev/static/media/Bootst.5a2b91a6a0b0c439e106.png",
+    "static/media/PlaceholderLC.png": "/Portfolio-WebDev/static/media/PlaceholderLC.7d6861434cf0ebc3fcaa.png",
+    "static/media/interns.jpg": "/Portfolio-WebDev/static/media/interns.301f8d588f15ad728dfa.jpg",
+    "static/media/FullstackDev.png": "/Portfolio-WebDev/static/media/FullstackDev.70c4c8cdef59d7413d69.png",
+    "index.html": "/Portfolio-WebDev/index.html",
+    "main.582e8902.css.map": "/Portfolio-WebDev/static/css/main.582e8902.css.map",
+    "main.47cae3ac.js.map": "/Portfolio-WebDev/static/js/main.47cae3ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582e8902.css",
+    "static/js/main.47cae3ac.js"
+  ]
+}
